@@ -1,0 +1,48 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+
+
+\title{\textbf{TITULO DEL REPORTE QUE ESTAMOS TRABAJANDO} (Coloque el nombre del reporte)}
+\author{Wilmer Lopez Lopez \ \\  ITC -  wmlopez@sfd.com.co \\ https://tectres.co\\  }
+\date{March 2021. (Ingrese la fecha)}
+
+\begin{document}
+
+\maketitle
+
+\section{Resumen}
+Por favor ingrese aca la información correspnodiente al resumen de su reporte. Tratra de no ingresar mas de 200 palabras en esta sección. 
+\\ {\it PalabraClave1, PalabraClave2, PalabraClave3, PalabraClave4.}
+
+\section{Objetivos}
+Ingrese el listado de objetivos de su documento (Es importante no tener mas de 3 o 4 objetivos del reporte): 
+
+\begin{itemize}
+\item {\it Acá esta el objetivo numero 1:} Prueba
+\item {\it Acá esta el objetivo numero 2:} Prueba
+\item {\it Acá esta el objetivo numero 3:} Prueba
+\item {\it Acá esta el objetivo numero 4:} Prueba
+\end{itemize}
+
+\section{Descripción del reporte}
+Por favor realizar en esta sección el documento del reporte, pueden incluir textos, imágenes y formulas si fuese necesario. 
+\break
+\includegraphics[scale=0.8]{descarga.jpeg}
+
+
+\section{Conclusiones}
+\begin{itemize}
+\item {\it Conclusión numero 1:} Prueba
+\item {\it Conclusión numero 2:} Prueba
+\item {\it Conclusión numero 3:} Prueba
+\item {\it Conclusión numero 4:} Prueba
+\end{itemize}
+\section{Bibliografía}
+\begin{itemize}
+\item Aguilar, Luis Joyanes. 2013. Big Data - Analisis de Grandes Volumenes de Datos En La Orgnizaciones. ed. Alfaomnega. Buenos Aires.
+\end{itemize}
+\end{document}
